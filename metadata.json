@@ -1,0 +1,6 @@
+{
+  "name": "Chrome Dino Runner - Custom Character Edition",
+  "description": "Play the iconic Chrome offline Dino jumping game with custom character selection and image upload support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
